@@ -86,6 +86,5 @@ pwgtp15
 
 ```{r average value of a variable}
 DT <- data.table::fread("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06pid.csv")
-DT
 system.time(DT[,mean(pwgtp15),by=SEX])
 ```
