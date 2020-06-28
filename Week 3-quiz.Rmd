@@ -1,6 +1,6 @@
 ---
 title: "Week 3 Quiz"
-author: "Vignesh"
+author: "Vignesh Chandrashekaran Iyer"
 date: "6/28/2020"
 output: pdf_document
 ---
