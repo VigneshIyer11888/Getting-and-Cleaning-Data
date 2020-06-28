@@ -2,7 +2,9 @@
 title: "Week 3 Quiz"
 author: "Vignesh Chandrashekaran Iyer"
 date: "6/28/2020"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 1.The American Community Survey distributes downloadable data about United States communities. Download the 2006 microdata survey about housing for the state of Idaho using download.file() from here:
